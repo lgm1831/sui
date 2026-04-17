@@ -1,0 +1,16 @@
+{
+  "name": "SUI",
+  "symbol": "SUI",
+  "description": "SUI token on Solana",
+  "image": "https://raw.githubusercontent.com/lgm1831/sui/main/SUI.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/lgm1831/sui/main/SUI.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
