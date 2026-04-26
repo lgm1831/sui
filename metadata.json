@@ -1,0 +1,15 @@
+{
+  "name": "Ethereum",
+  "symbol": "ETH",
+  "description": "Ethereum token on Solana network",
+  "image": "https://raw.githubusercontent.com/lgm1831/sui/main/Ethereum.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/lgm1831/sui/main/Ethereum.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
