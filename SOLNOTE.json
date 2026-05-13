@@ -1,0 +1,6 @@
+{
+  "name": "Solana Personal Withdrawal Note",
+  "symbol": "SOLNOTE",
+  "description": "Personal collection token for wallet memo use.",
+  "image": "https://raw.githubusercontent.com/lgm1831/sui/refs/heads/main/Solana_logo.png"
+}
